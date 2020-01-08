@@ -1,0 +1,38 @@
+body {
+    background-image: linear-gradient(white, #BFEDEF);
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1 {
+    font-size: 2.2rem;
+    color: #202030;
+
+}
+
+h3 {
+    padding: 1rem 0px;
+    color: #202030;
+}
+
+h4 {
+    color: #202030;
+    font-size: 1.4rem;
+}
+
+p {
+    color: #202030;
+    padding-top: 1rem;
+    // padding-bottom: 2rem;
+    width: 75%;
+}
+
+img {
+    width: auto;
+    height: 60vh;
+}
+
