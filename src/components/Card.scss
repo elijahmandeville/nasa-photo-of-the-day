@@ -1,0 +1,55 @@
+body {
+    background-image: linear-gradient(white, #BFEDEF);
+}
+
+.wrapper {
+    display: flex;
+    max-width: 55%;
+    margin: auto;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.card-title {
+    font-size: 2.2rem;
+    color: #202030;
+
+}
+
+.card-date {
+    // padding: 1rem 0px;
+    color: #202030;
+}
+
+.card-copyright {
+    color: #202030;
+    font-size: 1.4rem;
+}
+
+.card-text {
+    color: #202030;
+    padding-top: 1rem;
+    // padding-bottom: 2rem;
+    width: 75%;
+}
+
+.card-img {
+    width: auto;
+    height: 60vh;
+}
+
+.sec-1 {
+    display: flex;
+    flex-direction: column;
+}
+
+.sec-2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
